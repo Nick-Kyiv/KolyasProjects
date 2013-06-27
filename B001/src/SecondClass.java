@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class SecondClass {
     public static void main(String[] args) {
         int[] arr = {-128, 3, 1, 6, 7, 3, 5, 5, 4, 5, 127, 7};
-        System.out.println("Массив: " + Arrays.toString(arr));
+        System.out.println("Array: " + Arrays.toString(arr));
         arr[0] = arr[0];
         int max = arr[0], sum2 = 0, min = arr[0], crossMax = 0, crossMin = 0;
         for (int i = arr.length - 1; i >= 0; i--) {
