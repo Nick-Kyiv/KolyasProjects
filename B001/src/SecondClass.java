@@ -17,7 +17,7 @@ public class SecondClass {
                 crossMin = i;
             }
         }
-        System.out.println("Сумма всех чисел массива " + sum2 + ".");
+        System.out.println("Sum of all numbers in an array is " + sum2 + ".");
         System.out.println("Максимальное число " + max + ".");
         System.out.println("Минимальное число " + min + ".");
         int firstPartSum = 0, secondPartSum = 0;
