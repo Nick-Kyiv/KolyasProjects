@@ -3,11 +3,11 @@ import java.util.Arrays;
 public class SecondClass {
     public static void main(String[] args) {
         int[] arr = {-128, 3, 1, 6, 7, 3, 5, 5, 4, 5, 127, 7};
+        arr[1] = arr[0];
         System.out.println("Array: " + Arrays.toString(arr));
-        arr[0] = arr[0];
-        int max = arr[0], sum2 = 0, min = arr[0], crossMax = 0, crossMin = 0;
+        int max = arr[0], sumOfArrValues = 0, min = arr[0], crossMax = 0, crossMin = 0;
         for (int i = arr.length - 1; i >= 0; i--) {
-            sum2 += i;
+            sumOfArrValues += i;
             if (max < arr[i]) {
                 max = arr[i];
                 crossMax = i;
@@ -17,9 +17,9 @@ public class SecondClass {
                 crossMin = i;
             }
         }
-        System.out.println("Sum of all numbers in an array is " + sum2 + ".");
-        System.out.println("Максимальное число " + max + ".");
-        System.out.println("Минимальное число " + min + ".");
+        System.out.println("Sum of all numbers in an array is " + sumOfArrValues + ".");
+        System.out.println("Max_Value_In_Arr " + max + ".");
+        System.out.println("Min_Value_In_Arr " + min + ".");
         int firstPartSum = 0, secondPartSum = 0;
         for (int h = 0; h < arr.length / 2; h++) {
             firstPartSum += arr[h];
@@ -39,11 +39,25 @@ public class SecondClass {
        /* String ending1 = new String("st");
         String ending2 = new String("nd");
         String ending3 = new String("rd");
-        String endingElse = new String("th");
-        if (numberOfSums = 1)
-        String ending = new String("st");
-        */
-        System.out.println("bigger_half_sum is " + bigger_half_sum + ", so it's " + numberOfSums + "nd sum.");
+        String endingElse = new String("th");  */
+        String ending;
+        switch (numberOfSums) {
+            case 1:
+                //TODO: if numberOfSums = 1
+                ending = "st";
+                break;
+
+            case 2:
+                ending = "nd";
+                break;
+            case 3:
+                ending = "rd";
+                break;
+            default:
+                ending = "th";
+        }
+
+        System.out.println("bigger_half_sum is " + bigger_half_sum + ", so it's " + numberOfSums + ending + "part sum.");
 
     }
 }
