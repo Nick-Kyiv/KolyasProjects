@@ -2,26 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f1c17a-271e-4103-8000-bc6f03667b63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/H001/H001.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/H001/src/StartClass.java" />
-      <change type="DELETED" beforePath="C:\Users\Всі інші\Documents\GitHub\KolyasProjects\B001\resBundle.properties" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/H001/Fibonacci/Fibonacci.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/H001_1_1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/H001/HomeTask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/H001/Fibonacci/src/StartClass.java" />
+      <change type="MOVED" beforePath="C:\Users\Всі інші\Documents\GitHub\KolyasProjects\HomeWork\H001\src\StartClass.java" afterPath="$PROJECT_DIR$/HomeWork/H001/Fibonacci/src/Fibonacci.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/B001/src/MainClass.java" afterPath="$PROJECT_DIR$/B001/src/MainClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/B001/src/SecondClass.java" afterPath="$PROJECT_DIR$/B001/src/SecondClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KolyasProjects.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/MainClass.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372185400212" ignored="false" />
+    <file path="/MainClass.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372590497843" ignored="false" />
     <file path="/MySclass.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372186793850" ignored="false" />
     <file path="/MyClass.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372266468913" ignored="false" />
     <file path="/SecondClass.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372324963262" ignored="false" />
-    <file path="/a.dummy" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372324924485" ignored="false" />
-    <file path="/fragment.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372449053506" ignored="false" />
-    <file path="/Dummy.txt" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372445933808" ignored="false" />
-    <file path="/StartClass.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372449037478" ignored="false" />
+    <file path="/a.dummy" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372588842388" ignored="false" />
+    <file path="/fragment.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372696744348" ignored="false" />
+    <file path="/Dummy.txt" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372710455249" ignored="false" />
+    <file path="/StartClass.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372678978108" ignored="false" />
+    <file path="/Fibonacci.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372679376934" ignored="false" />
+    <file path="/H001_1_1.java" changelist="19f1c17a-271e-4103-8000-bc6f03667b63" time="1372713518227" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
       <file leaf-file-name="MainClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B001/src/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="23" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
+            <state line="6" column="45" selection-start="92" selection-end="113" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,17 +105,27 @@
       <file leaf-file-name="SecondClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/B001/src/SecondClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="36" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+            <state line="56" column="12" selection-start="1745" selection-end="2053" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartClass.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HomeWork/H001/src/StartClass.java">
+      <file leaf-file-name="HomeTask" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/H001/HomeTask">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="18" selection-start="1229" selection-end="1229" vertical-scroll-proportion="1.1607844">
+            <state line="3" column="0" selection-start="48" selection-end="145" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H001_1_1.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HomeWork/src/H001_1_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="22" selection-start="498" selection-end="498" vertical-scroll-proportion="0.59778595">
               <folding>
+                <element signature="e#0#2204#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -142,17 +154,22 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/B001/src/MySclass.java" />
-        <option value="$PROJECT_DIR$/B001/src/MainClass.java" />
         <option value="$PROJECT_DIR$/B001/src/MyClass.java" />
-        <option value="$PROJECT_DIR$/B001/src/SecondClass.java" />
+        <option value="$PROJECT_DIR$/HomeWork/H001/src/Fibonacci.java" />
         <option value="$PROJECT_DIR$/HomeWork/H001/src/StartClass.java" />
+        <option value="$PROJECT_DIR$/B001/src/MainClass.java" />
+        <option value="$PROJECT_DIR$/HomeWork/H001/Fibonacci/src/StartClass.java" />
+        <option value="$PROJECT_DIR$/HomeWork/H001/Fibonacci/src/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/HomeWork/H001/HomeTask" />
+        <option value="$PROJECT_DIR$/B001/src/SecondClass.java" />
+        <option value="$PROJECT_DIR$/HomeWork/src/H001_1_1.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1298" />
-    <option name="height" value="994" />
+    <option name="x" value="11" />
+    <option name="width" value="1278" />
+    <option name="height" value="1022" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -180,6 +197,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -227,7 +245,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="H001" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -248,6 +266,34 @@
               <option name="myItemId" value="H001" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyasProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyasProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyasProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KolyasProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -255,7 +301,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,11 +324,15 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Всі інші\Documents\GitHub\KolyasProjects\HomeWork\H001" />
       <recent name="C:\Users\Всі інші\Documents\GitHub\KolyasProjects\HomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StartClass">
+  <component name="RunManager" selected="Application.H001_1_1">
     <configuration default="false" name="MainClass" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="MainClass" />
       <option name="VM_PARAMETERS" />
@@ -333,6 +382,50 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="B001" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Fibonacci" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Fibonacci" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="H001_1_1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="H001_1_1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HomeWork" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -409,7 +502,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="H001" />
+      <module name="Fibonacci" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -421,17 +514,21 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.StartClass" />
       <item index="1" class="java.lang.String" itemvalue="Application.MainClass" />
       <item index="2" class="java.lang.String" itemvalue="Application.MyClass" />
       <item index="3" class="java.lang.String" itemvalue="Application.SecondClass" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Fibonacci" />
+      <item index="5" class="java.lang.String" itemvalue="Application.H001_1_1" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.SecondClass" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MyClass" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.H001_1_1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
         <item index="2" class="java.lang.String" itemvalue="Application.MainClass" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SecondClass" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MyClass" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -466,22 +563,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1298" height="994" extended-state="0" />
-    <editor active="false" />
+    <frame x="11" y="0" width="1278" height="1022" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31411764" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67164177" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12722853" sideWeight="0.6703163" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39770114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21004942" sideWeight="0.7176471" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2689655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28588808" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28235295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="91" y="91" width="1098" height="842" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -560,34 +657,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/B001/src/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B001/src/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="51" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B001/src/SecondClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B001/src/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/B001/src/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="51" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
@@ -623,19 +692,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KolyasProjects.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/B001/B001.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_21/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="347" column="19" selection-start="14372" selection-end="14372" vertical-scroll-proportion="2.0287957">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KolyasProjects.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/HomeWork.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/H001/Fibonacci/src/StartClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="41" selection-start="507" selection-end="519" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/H001/Fibonacci/src/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/B001/src/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
+        <state line="6" column="45" selection-start="92" selection-end="113" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -649,22 +740,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/B001/src/SecondClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="36" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+        <state line="56" column="12" selection-start="1745" selection-end="2053" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_21/src.zip!/java/util/Scanner.java">
+    <entry file="file://$PROJECT_DIR$/HomeWork/H001/HomeTask">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="347" column="19" selection-start="14372" selection-end="14372" vertical-scroll-proportion="2.0287957">
+        <state line="3" column="0" selection-start="48" selection-end="145" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/H001/src/StartClass.java">
+    <entry file="file://$PROJECT_DIR$/HomeWork/src/H001_1_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="18" selection-start="1229" selection-end="1229" vertical-scroll-proportion="1.1607844">
+        <state line="12" column="22" selection-start="498" selection-end="498" vertical-scroll-proportion="0.59778595">
           <folding>
+            <element signature="e#0#2204#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>

@@ -43,7 +43,6 @@ public class SecondClass {
         String ending;
         switch (numberOfSums) {
             case 1:
-                //TODO: if numberOfSums = 1
                 ending = "st";
                 break;
 
