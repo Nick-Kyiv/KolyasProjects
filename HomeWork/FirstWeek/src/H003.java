@@ -1,3 +1,4 @@
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Random;
@@ -20,12 +21,12 @@ public class H003 {
             }
             if (lengthUnique <= 0)
                 continue;
-          //... случайными числами
+            //... случайными числами
             int number;
             Random generator;
             int[] arrRandom = new int[lengthUnique];
             generator = new Random();
-          //есть два массива одинаковой длины arr1 и arr2... & скопировать данные...
+            //есть два массива одинаковой длины arr1 и arr2... & скопировать данные...
             int[] arr1 = new int[lengthUnique], arr2 = new int[lengthUnique];
             for (int i = 0; i < arr1.length; i++) {
                 System.out.println("What value of " + i + " variable ?");
@@ -54,16 +55,26 @@ public class H003 {
             System.out.println("Array_2: " + Arrays.toString(arr2));
             //- инвертировать массив в обратном направлении
             int numerator = 0;
-            for (int i = lengthUnique -1; i >= 0; i--) {
-            // я использовал arr2 в качестве копии arr1
+            for (int i = lengthUnique - 1; i >= 0; i--) {
+                // я использовал arr2 в качестве копии arr1
                 arr1[numerator] = arr2[i];
                 numerator++;
             }
             System.out.println("invert_of_Array_1: " + Arrays.toString(arr1));
+            int num = 0, j;
+            int[][] matrix;
+            for (int i = 0; i < lengthUnique; i++) {
+                num = generator.nextInt(lengthUnique);
+                while (j >= i) {
+                    matrix[i][j] = num;
+                    j++;
+                }
+                j = 0;
+            }
+            System.out.println(matrix);
             break;
-
         }
-
     }
-}
 
+}
+}
