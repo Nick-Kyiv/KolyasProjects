@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SecondClass {
+public class C002 {
     public static void main(String[] args) {
         int[] arr = {-128, 3, 1, 6, 7, 3, 5, 5, 4, 5, 127, 7};
         arr[1] = arr[0];
@@ -17,6 +17,7 @@ public class SecondClass {
                 crossMin = i;
             }
         }
+
         System.out.println("Sum of all numbers in an array is " + sumOfArrValues + ".");
         System.out.println("Max_Value_In_Arr " + max + ".");
         System.out.println("Min_Value_In_Arr " + min + ".");

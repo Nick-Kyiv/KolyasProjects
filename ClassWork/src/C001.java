@@ -2,7 +2,7 @@
  * Уметь сортировать массивы.
  * public class Высший_регистр.
  * public static void низший_регистр.
- * p+s+v+Tab=public static void main(String[] args) {}.
+ * p+s+v+m+Tab=public static void main(String[] args) {}.
  * Алгоритм - это конкр. посл. шагов кот. исп. для решения.
  * Метод - это место где будет находиться [мой] алгоритм.
  * Переменная - это символ, который обозначает число.
@@ -19,7 +19,7 @@
  * Размер массива фиксирован.
  * Цикл предназначен для того, чтобы перебирать елементы массыва автоматически.
  */
-public class MyClass {
+public class C001 {
 
     public static void main(String[] args) {
         int a = 3;

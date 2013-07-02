@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MainClass {
+public class J001 {
 
     int i = 1;
 
