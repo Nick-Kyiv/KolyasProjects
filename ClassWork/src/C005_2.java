@@ -1,3 +1,5 @@
+import my.Gooddies;
+
 //TODO: Название цена артикул вес - ТОВАР
 //TODO: 5 товаров, макс. и мин. цена , поменять их местами
 public class C005_2 {
@@ -64,7 +66,7 @@ public class C005_2 {
         for (int i = 0; i <gooddies.length ; i++) {
             /*for (int j = 0; j <gooddies.length - 1 ; j++) {
             if (gooddies[j].value > gooddies[j + 1].value)
-                Gooddies temp = gooddies[j + 1];
+                my.Gooddies temp = gooddies[j + 1];
                 gooddies[j + 1] = gooddies[j];
                 gooddies[j] = temp;
             }*/
